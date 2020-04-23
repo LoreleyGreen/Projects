@@ -23,8 +23,5 @@ public class Board {
     public String getIdCard() {
         return id;
     }
-    public String getIdList() {
-        return id;
-    }
 
 }
