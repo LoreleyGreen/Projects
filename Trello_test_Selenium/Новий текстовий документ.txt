@@ -1,0 +1,1 @@
+Тестування з допомогою Selenium, Gradle. З використанням chromedriver.exe та доступ до Trello.
